@@ -2,8 +2,3 @@ I will keep the same standard from my previous "project" and have the links to m
 
 Introduction to 64 Bit Intel Assembly Language Programming for Linux - Ray Seyfarth 
   - Last access: 2026-01-28
-
-library.bagrintsev.me/ASM/Introduction to 64bit Intel Assembly Language Programming for Linux.2011.pdf
-
------ Yes, the link has spaces
-
